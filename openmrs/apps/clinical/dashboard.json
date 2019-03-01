@@ -53,18 +53,6 @@
                     }
                 }
             },
-			"growthChart":{  
-                "type":"observationGraph",
-                "title":"Growth Chart",
-                "config":{  
-                    "yAxisConcepts":[  
-                        "Weight"
-                    ],
-                    "referenceData":"growthChartReference.csv",
-                    "numberOfVisits":20
-                },
-                "displayOrder":4
-            },
             "formsDisplay": {
                 "type": "forms",
                 "displayOrder": 21,
