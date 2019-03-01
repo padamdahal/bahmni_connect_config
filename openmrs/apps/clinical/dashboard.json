@@ -125,19 +125,6 @@
                         "obsConcepts":["ANC Followup Month","Iron Folic","TD Vaccine"]
 					}
                 }
-            },
-            "BP":{  
-                "type":"observationGraph",
-                "title":"BP",
-                "config":{  
-                    "yAxisConcepts":[  
-                        "Systolic Data",
-                        "Diastolic Data"
-                    ],
-                    "xAxisConcept":"observationDateTime",
-                    "numberOfVisits":10
-                },
-                "displayOrder":2
             }
         }
     }
