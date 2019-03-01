@@ -37,7 +37,7 @@
             ]
         },
     	"diagnosisStatus": "Inactive",
-            "program": {
+        "program": {
                 "patientInformation": {
                     "ageLimit": 100
                 },
@@ -50,8 +50,8 @@
                 "Doctor": {
                     "excludeFrom": ["TB Program"]
                 }
-            },
-            "patientContext": {
+        },
+        "patientContext": {
         		"programAttributes": [
             		"Id_Number",
             		"Doctor",
