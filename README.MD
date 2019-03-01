@@ -1,4 +1,4 @@
-## Pull the updated files:
+## Fetch the contents from the repository:
 git pull
 
 ## Generate the concatinated configs for offline app:
